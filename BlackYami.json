@@ -1,51 +1,23 @@
 [
     {
-        "name": "Tachiyomi: SussyScan",
-        "pkg": "eu.kanade.tachiyomi.extension.all.sussyscan",
-        "apk": "tachiyomi-all.sussyscan-v1.0.0.apk",
+        "name": "Tachiyomi: BlackYami",
+        "pkg": "eu.kanade.tachiyomi.extension.all.blackyami",
+        "apk": "tachiyomi-all.blackyami-v1.0.0.apk",
         "lang": "all",
-        "code": 101,
+        "code": 1,
         "version": "1.0.0",
         "nsfw": 1,
         "sources": [
             {
-                "name": "SussyScan",
+                "name": "SussyToons",
                 "lang": "all",
                 "id": "1234567890123456789",
-                "baseUrl": "https://sussyscan.com"
-            }
-        ]
-    },
-    {
-        "name": "Tachiyomi: Seita Celestial",
-        "pkg": "eu.kanade.tachiyomi.extension.all.seitacelestial",
-        "apk": "tachiyomi-all.seitacelestial-v1.0.0.apk",
-        "lang": "all",
-        "code": 102,
-        "version": "1.0.0",
-        "nsfw": 1,
-        "sources": [
+                "baseUrl": "https://sussytoons.wtf"
+            },
             {
-                "name": "Seita Celestial",
+                "name": "Raiotoons",
                 "lang": "all",
                 "id": "9876543210987654321",
-                "baseUrl": "https://seitacelestial.com"
-            }
-        ]
-    },
-    {
-        "name": "Tachiyomi: Raio Toons",
-        "pkg": "eu.kanade.tachiyomi.extension.all.raiotoons",
-        "apk": "tachiyomi-all.raiotoons-v1.0.0.apk",
-        "lang": "all",
-        "code": 103,
-        "version": "1.0.0",
-        "nsfw": 1,
-        "sources": [
-            {
-                "name": "Raio Toons",
-                "lang": "all",
-                "id": "1122334455667788990",
                 "baseUrl": "https://raiotoons.com"
             }
         ]
